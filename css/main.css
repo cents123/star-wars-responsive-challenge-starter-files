@@ -1,0 +1,27 @@
+header {
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+
+main {
+  padding-top: 50px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+  border: 1px solid grey;
+}
+
+
+.card-image {
+  width: 100%;
+}
+
+.card-content {
+  padding: 20px;
+}
